@@ -67,3 +67,9 @@ if player5 == "mozi":
 
 # چاپ قیمت نهایی
 print("Total price is:", total, "$")
+
+print("chokolati = 2$")
+print("vanili = 1$")
+print("totfarangi = 3$")
+print("sonnati = 5$")
+print("mozi = 4$")
